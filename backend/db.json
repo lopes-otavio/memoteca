@@ -1,0 +1,34 @@
+{
+  "pensamentos": [
+    {
+      "id": "0.8084230896099689",
+      "conteudo": "Agora eu sei programar em Angular <3",
+      "autoria": "Lopes",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "0.19823261992261498",
+      "conteudo": "Se você está lendo isso é pq acessou meu github",
+      "autoria": "Lopes",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "0.7707009581051374",
+      "conteudo": "Daqui alguns meses vou estar bom em Angular :3",
+      "autoria": "Lopes",
+      "modelo": "modelo3"
+    },
+    {
+      "id": "0.8954637631349913",
+      "conteudo": " continue a codar... continue a codar... continue a codar... continue a codar... continue a codar... continue a codar... continue a codar... continue a codar... continue a codar... continue a codar... continue a codar... continue a codar... continue a codar... continue a codar... continue a codar...",
+      "autoria": "Vozes da minha cabeça",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "0.8542333111814575",
+      "conteudo": "Oi me da uma vaga de trabalho, juro que sou bom no que faço :v",
+      "autoria": "Lopes",
+      "modelo": "modelo1"
+    }
+  ]
+}
