@@ -6,6 +6,14 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
+# Json-Server
+
+This project use json-server with [json-server]([https://github.com/angular/angular-cli](https://www.npmjs.com/package/json-server)) version 1.0.0-alpha.19.
+
+## Local End-Point REST API
+
+Run `json-server --watch db.json --port 3000` for a local API. Navigate to `http://localhost:3000/`. There you can see all the content that is inside db.json.
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
