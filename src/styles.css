@@ -39,10 +39,21 @@ h2 {
 .botao {
   background: #154580;
   color: #ffffff;
-  max-width: 270px;
-  width: 250px;
+  width: 200px;
   padding: 1rem;
   margin: 0 auto;
+  border: 2px solid #154580;
+  border-radius: 10px;
+  transition: 0.5s ease;
+}
+
+.botao__editar {
+  background: #154580;
+  color: #ffffff;
+  width: 200px;
+  padding: 1rem;
+  margin: 0 10px;
+  margin-top: 70px !important;
   border: 2px solid #154580;
   border-radius: 10px;
   transition: 0.5s ease;
@@ -51,6 +62,20 @@ h2 {
 .botao:hover {
   border: 2px solid #84EEC1;
   color: #84EEC1;
+}
+.botao__editar:hover {
+  border: 2px solid #84EEC1;
+  color: #84EEC1;
+}
+
+.botao__desabilitado {
+  background: #7A7F87;
+  color: #FFFFFF;
+  width: 250px;
+  padding: 1rem;
+  border: 2px solid #C4C4C4;
+  border-radius: 10px;
+  transition: 0.5s ease;
 }
 
 @media (min-width: 576px) {
